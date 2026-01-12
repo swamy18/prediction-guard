@@ -1,0 +1,5 @@
+# Prediction Guard - ML Model Failure Detection and Rollback
+# Minimal dependencies for production reliability
+
+numpy>=1.21.0
+scipy>=1.7.0
